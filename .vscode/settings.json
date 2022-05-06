@@ -2,5 +2,6 @@
     "editor.formatOnSave":true,
     "editor.codeActionsOnsave":{
         "source.fixAll.eslint":true
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
